@@ -40,3 +40,6 @@ The read-only endpoints return JSON `{ "success": true, "data": ... }`. Profile 
 - `EADDRINUSE`: Port 5000 is already used; set a free PORT in `.env`.
 
 Next phase: authenticated admin CRUD / validated and rate-limited contact API, then Axios integration. Keep secret values only in backend `.env`, never in React Vite env.
+
+# arunkumar-portfolio-backend
+Backend source code for my portfolio project
